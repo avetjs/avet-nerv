@@ -7,7 +7,7 @@
       "EGG_SERVER_ENV=prod avet-bin build && NODE_ENV=production EGG_SERVER_ENV=prod node index.js"
   },
   "devDependencies": {
-    "avet": "^1.0.0-24",
-    "avet-bin": "^1.0.0-24"
+    "avet": "^1.0.0-26",
+    "avet-bin": "^1.0.0-26"
   }
 }
