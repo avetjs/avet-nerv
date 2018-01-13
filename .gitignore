@@ -60,3 +60,4 @@ typings/
 asset-prod
 run
 logs
+.build
