@@ -1,0 +1,12 @@
+{
+  "name": "test-nerv",
+  "version": "1.0.0",
+  "scripts": {
+    "test":
+      "EGG_SERVER_ENV=prod avet-bin build && NODE_ENV=production EGG_SERVER_ENV=prod node index.js"
+  },
+  "devDependencies": {
+    "avet": "^1.0.0-24",
+    "avet-bin": "^1.0.0-24"
+  }
+}
